@@ -4,4 +4,5 @@ BasicCalculator = it's a pure basic calculator.
 MToF = it converts Meter to Feet.
 Marks = it gives the average of the 4 subjects marks.
 
-I did not make it so grand and it is just the starting.
+I did not make it so grand.
+I am still learning.....
